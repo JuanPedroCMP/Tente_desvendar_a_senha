@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tente_desvendar_a_senha", "Tente_desvendar_a_senha\Tente_desvendar_a_senha.csproj", "{08AB2102-8DFC-4E09-88D6-73E902D5135B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AB2102-8DFC-4E09-88D6-73E902D5135B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AB2102-8DFC-4E09-88D6-73E902D5135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AB2102-8DFC-4E09-88D6-73E902D5135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AB2102-8DFC-4E09-88D6-73E902D5135B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBD85A7-0F69-49C5-B81D-2911841C0F14}
+	EndGlobalSection
+EndGlobal
